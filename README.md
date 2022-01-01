@@ -1,1 +1,2 @@
 # odin
+#\\wsl$\Ubuntu
