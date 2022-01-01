@@ -1,0 +1,1 @@
+Use "code test.txt" to open the test.txt file from VSC!
