@@ -1,4 +1,4 @@
 # odin
 
-\\wsl$
+\\\wsl$
 
